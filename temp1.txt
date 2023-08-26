@@ -1,1 +1,3 @@
 Welcome to msc computer science lab
+hello !!
+welcome to git
